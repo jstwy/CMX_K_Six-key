@@ -1,0 +1,3 @@
+[submodule "CMX_K_Six-key.Firmware/tmk_core"]
+	path = CMX_K_Six-key.Firmware/tmk_core
+	url = https://github.com/tmk/tmk_core
