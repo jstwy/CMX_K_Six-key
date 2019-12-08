@@ -5,5 +5,5 @@
 `CMX_K_Six-Key.Enclosure` contains enclosure design files (drawings and more... to be created)  
 
 **Guides Followed over Course of Project**  
-PCB design: https://github.com/ruiqimao/keyboard-pcb-guide  
-building t.m.k. firmware: https://deskthority.net/viewtopic.php?f=7&t=7177&start=
+PCB design: https://github.com/ruiqimao/keyboard-pcb-guide
+Building t.m.k. firmware: https://deskthority.net/viewtopic.php?f=7&t=7177&start=
